@@ -4,11 +4,12 @@
 }
 .page{
 
-  background-color: white;
+  background-image: url("./assets/bgimg.png");
+  background-size: cover;
   border:2px solid black;
   border-radius: 5px;
   padding:20px 30px 30px 30px;
   position: absolute;
-  top:25%;
-  left:35%;
+  top:10%;
+  left:20%;
 }
